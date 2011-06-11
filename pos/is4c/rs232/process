@@ -1,0 +1,2 @@
+ 6551 pts/0    S+     0:00 sh -c ps x | grep /etc/init.d/ssd > process
+ 6553 pts/0    S+     0:00 grep /etc/init.d/ssd
