@@ -1,0 +1,36 @@
+use translog;
+DROP VIEW IF EXISTS `lttsubtotals`;
+
+CREATE view lttsubtotals as
+select
+tdate,
+card_no,
+runningTotal,
+tenderTotal,
+chargeTotal,
+ccTotal,
+paymentTotal,
+memChargeTotal,
+discountTTL,
+discountableTTL,
+memSpecial,
+staffSpecial,
+refundTotal,
+couponTotal,
+memCoupon,
+0 as madCoupon,
+percentDiscount,
+convert(((taxable - discountableTaxable) + (discountableTaxable *  ((100 - percentDiscount)/100)))  * t.tax1, decimal(10,2)) as taxTotal,
+convert(scTaxable *  ((100 - percentDiscount)/100) * t.tax1, decimal(10,2)) as scTaxTotal,
+fsTendered,
+convert(fsItems  - (fsItems * (percentDiscount)/100) + fsTendered, decimal(10,2)) as fsEligible,
+convert(fsTendered * t.tax1, decimal(10,2)) as fsTendered07,
+convert(fsTaxable * ((100 - percentDiscount)/100), decimal(10,2)) as fsTaxable,
+convert(fsTaxable * ((100 - percentDiscount)/100) * t.tax1, decimal(10,2)) as fsTax,
+convert(scDiscountableTTL * 0.1, decimal(10,2)) as scDiscount,
+convert(discountableTTL * percentDiscount / 100, decimal(10,2)) as transDiscount,
+convert((discountableTTL - (scDiscountableTTL * 0.1)) * percentDiscount / 100, decimal(10,2)) as scTransDiscount,
+LastID
+
+from lttsummary s, opdata.taxtable t
+

@@ -1,0 +1,4 @@
+
+INSERT INTO `taxtable` (`tax1`, `tax2`) VALUES
+(0.0675, 0.0675);
+

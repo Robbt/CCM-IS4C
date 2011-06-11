@@ -1,0 +1,12 @@
+use is4c_log;
+
+DROP VIEW IF EXISTS `fstendertotal`;
+CREATE VIEW `fstendertotal` AS 
+
+select 
+`fstenders`.`register_no` AS `register_no`,
+`fstenders`.`emp_no` AS `emp_no`,
+sum(`fstenders`.`FsTender`) AS `fsTender` 
+
+from `fstenders` 
+group by `fstenders`.`register_no`

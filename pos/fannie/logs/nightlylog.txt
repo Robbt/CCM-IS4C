@@ -1,0 +1,615 @@
+2009-11-16 - Update products table with new sales batch data.
+2009-11-16 - dtransactions archived and truncated.
+2009-11-16 - ERROR - Sync to lane01 failed.
+2009-11-16 - ERROR - Sync to lane02 failed.
+2009-11-16 - ERROR - Sync to lane03 failed.
+2009-11-17 - Update products table with new sales batch data.
+2009-11-17 - dtransactions archived and truncated.
+2009-11-17 - Sync to lane01 successful.
+2009-11-17 - ERROR - Sync to lane02 failed.
+2009-11-17 - ERROR - Sync to lane03 failed.
+2009-11-18 - Update products table with new sales batch data.
+2009-11-18 - dtransactions archived and truncated.
+2009-11-18 - Sync to lane01 successful.
+2009-11-18 - ERROR - Sync to lane02 failed.
+2009-11-18 - ERROR - Sync to lane03 failed.
+2009-11-19 - Update products table with new sales batch data.
+2009-11-19 - dtransactions archived and truncated.
+2009-11-19 - Sync to lane01 successful.
+2009-11-19 - ERROR - Sync to lane02 failed.
+2009-11-19 - ERROR - Sync to lane03 failed.
+2009-11-20 - Update products table with new sales batch data.
+2009-11-20 - dtransactions archived and truncated.
+2009-11-20 - Sync to lane01 successful.
+2009-11-20 - ERROR - Sync to lane02 failed.
+2009-11-20 - ERROR - Sync to lane03 failed.
+2009-11-21 - Update products table with new sales batch data.
+2009-11-21 - dtransactions archived and truncated.
+2009-11-21 - Sync to lane01 successful.
+2009-11-21 - ERROR - Sync to lane02 failed.
+2009-11-21 - ERROR - Sync to lane03 failed.
+2009-11-22 - Update products table with new sales batch data.
+2009-11-22 - dtransactions archived and truncated.
+2009-11-22 - Sync to lane01 successful.
+2009-11-22 - ERROR - Sync to lane02 failed.
+2009-11-22 - ERROR - Sync to lane03 failed.
+2009-11-23 - Update products table with new sales batch data.
+2009-11-23 - dtransactions archived and truncated.
+2009-11-23 - Sync to lane01 successful.
+2009-11-23 - ERROR - Sync to lane02 failed.
+2009-11-23 - ERROR - Sync to lane03 failed.
+2009-11-24 - Update products table with new sales batch data.
+2009-11-24 - dtransactions archived and truncated.
+2009-11-24 - ERROR - Sync to lane01 failed.
+2009-11-24 - ERROR - Sync to lane02 failed.
+2009-11-24 - Sync to lane03 successful.
+2009-11-25 - Update products table with new sales batch data.
+2009-11-25 - dtransactions archived and truncated.
+2009-11-25 - ERROR - Sync to lane01 failed.
+2009-11-25 - ERROR - Sync to lane02 failed.
+2009-11-25 - Sync to lane03 successful.
+2009-11-26 - Update products table with new sales batch data.
+2009-11-26 - dtransactions archived and truncated.
+2009-11-26 - ERROR - Sync to lane01 failed.
+2009-11-26 - ERROR - Sync to lane02 failed.
+2009-11-26 - Sync to lane03 successful.
+2009-11-27 - Update products table with new sales batch data.
+2009-11-27 - dtransactions archived and truncated.
+2009-11-27 - ERROR - Sync to lane01 failed.
+2009-11-27 - ERROR - Sync to lane02 failed.
+2009-11-27 - Sync to lane03 successful.
+2009-11-28 - Update products table with new sales batch data.
+2009-11-28 - dtransactions archived and truncated.
+2009-11-28 - ERROR - Sync to lane01 failed.
+2009-11-28 - ERROR - Sync to lane02 failed.
+2009-11-28 - Sync to lane03 successful.
+2009-11-29 - Update products table with new sales batch data.
+2009-11-29 - dtransactions archived and truncated.
+2009-11-29 - ERROR - Sync to lane01 failed.
+2009-11-29 - ERROR - Sync to lane02 failed.
+2009-11-29 - Sync to lane03 successful.
+2009-11-30 - Update products table with new sales batch data.
+2009-11-30 - dtransactions archived and truncated.
+2009-11-30 - ERROR - Sync to lane01 failed.
+2009-11-30 - ERROR - Sync to lane02 failed.
+2009-11-30 - Sync to lane03 successful.
+2009-12-01 - Update products table with new sales batch data.
+2009-12-01 - dtransactions archived and truncated.
+2009-12-01 - ERROR - Sync to lane01 failed.
+2009-12-01 - ERROR - Sync to lane02 failed.
+2009-12-01 - Sync to lane03 successful.
+2009-12-02 - Update products table with new sales batch data.
+2009-12-02 - dtransactions archived and truncated.
+2009-12-02 - ERROR - Sync to lane01 failed.
+2009-12-02 - ERROR - Sync to lane02 failed.
+2009-12-02 - Sync to lane03 successful.
+2009-12-03 - Update products table with new sales batch data.
+2009-12-03 - dtransactions archived and truncated.
+2009-12-03 - ERROR - Sync to lane01 failed.
+2009-12-03 - ERROR - Sync to lane02 failed.
+2009-12-03 - Sync to lane03 successful.
+2009-12-04 - Update products table with new sales batch data.
+2009-12-04 - dtransactions archived and truncated.
+2009-12-04 - ERROR - Sync to lane01 failed.
+2009-12-04 - ERROR - Sync to lane02 failed.
+2009-12-04 - ERROR - Sync to lane03 failed.
+2009-12-05 - Update products table with new sales batch data.
+2009-12-05 - dtransactions archived and truncated.
+2009-12-05 - ERROR - Sync to lane01 failed.
+2009-12-05 - ERROR - Sync to lane02 failed.
+2009-12-05 - Sync to lane03 successful.
+2009-12-06 - Update products table with new sales batch data.
+2009-12-06 - dtransactions archived and truncated.
+2009-12-06 - ERROR - Sync to lane01 failed.
+2009-12-06 - ERROR - Sync to lane02 failed.
+2009-12-06 - ERROR - Sync to lane03 failed.
+2009-12-07 - Update products table with new sales batch data.
+2009-12-07 - dtransactions archived and truncated.
+2009-12-07 - ERROR - Sync to lane01 failed.
+2009-12-07 - ERROR - Sync to lane02 failed.
+2009-12-07 - Sync to lane03 successful.
+2009-12-08 - Update products table with new sales batch data.
+2009-12-08 - dtransactions archived and truncated.
+2009-12-08 - ERROR - Sync to lane01 failed.
+2009-12-08 - ERROR - Sync to lane02 failed.
+2009-12-08 - Sync to lane03 successful.
+2009-12-09 - Update products table with new sales batch data.
+2009-12-09 - dtransactions archived and truncated.
+2009-12-09 - ERROR - Sync to lane01 failed.
+2009-12-09 - ERROR - Sync to lane02 failed.
+2009-12-09 - Sync to lane03 successful.
+2009-12-10 - Update products table with new sales batch data.
+2009-12-10 - dtransactions archived and truncated.
+2009-12-10 - ERROR - Sync to lane01 failed.
+2009-12-10 - ERROR - Sync to lane02 failed.
+2009-12-10 - Sync to lane03 successful.
+2009-12-11 - Update products table with new sales batch data.
+2009-12-11 - dtransactions archived and truncated.
+2009-12-11 - ERROR - Sync to lane01 failed.
+2009-12-11 - ERROR - Sync to lane02 failed.
+2009-12-11 - Sync to lane03 successful.
+2009-12-12 - Update products table with new sales batch data.
+2009-12-12 - dtransactions archived and truncated.
+2009-12-12 - ERROR - Sync to lane01 failed.
+2009-12-12 - ERROR - Sync to lane02 failed.
+2009-12-12 - Sync to lane03 successful.
+2009-12-13 - Update products table with new sales batch data.
+2009-12-13 - dtransactions archived and truncated.
+2009-12-13 - ERROR - Sync to lane01 failed.
+2009-12-13 - ERROR - Sync to lane02 failed.
+2009-12-13 - Sync to lane03 successful.
+2009-12-14 - Update products table with new sales batch data.
+2009-12-14 - dtransactions archived and truncated.
+2009-12-14 - ERROR - Sync to lane01 failed.
+2009-12-14 - ERROR - Sync to lane02 failed.
+2009-12-14 - Sync to lane03 successful.
+2009-12-15 - Update products table with new sales batch data.
+2009-12-15 - dtransactions archived and truncated.
+2009-12-15 - ERROR - Sync to lane01 failed.
+2009-12-15 - ERROR - Sync to lane02 failed.
+2009-12-15 - Sync to lane03 successful.
+2009-12-16 - Update products table with new sales batch data.
+2009-12-16 - dtransactions archived and truncated.
+2009-12-16 - ERROR - Sync to lane01 failed.
+2009-12-16 - ERROR - Sync to lane02 failed.
+2009-12-16 - Sync to lane03 successful.
+2009-12-17 - Update products table with new sales batch data.
+2009-12-17 - dtransactions archived and truncated.
+2009-12-17 - ERROR - Sync to lane01 failed.
+2009-12-17 - ERROR - Sync to lane02 failed.
+2009-12-17 - Sync to lane03 successful.
+2009-12-18 - Update products table with new sales batch data.
+2009-12-18 - dtransactions archived and truncated.
+2009-12-18 - ERROR - Sync to lane01 failed.
+2009-12-18 - ERROR - Sync to lane02 failed.
+2009-12-18 - Sync to lane03 successful.
+2009-12-19 - Update products table with new sales batch data.
+2009-12-19 - dtransactions archived and truncated.
+2009-12-19 - ERROR - Sync to lane01 failed.
+2009-12-19 - ERROR - Sync to lane02 failed.
+2009-12-19 - Sync to lane03 successful.
+2009-12-20 - Update products table with new sales batch data.
+2009-12-20 - dtransactions archived and truncated.
+2009-12-20 - ERROR - Sync to lane01 failed.
+2009-12-20 - ERROR - Sync to lane02 failed.
+2009-12-20 - Sync to lane03 successful.
+2009-12-21 - Update products table with new sales batch data.
+2009-12-21 - dtransactions archived and truncated.
+2009-12-21 - ERROR - Sync to lane01 failed.
+2009-12-21 - ERROR - Sync to lane02 failed.
+2009-12-21 - Sync to lane03 successful.
+2009-12-22 - Update products table with new sales batch data.
+2009-12-22 - dtransactions archived and truncated.
+2009-12-22 - ERROR - Sync to lane01 failed.
+2009-12-22 - ERROR - Sync to lane02 failed.
+2009-12-22 - Sync to lane03 successful.
+2009-12-23 - Update products table with new sales batch data.
+2009-12-23 - dtransactions archived and truncated.
+2009-12-23 - ERROR - Sync to lane01 failed.
+2009-12-23 - ERROR - Sync to lane02 failed.
+2009-12-23 - Sync to lane03 successful.
+2009-12-24 - Update products table with new sales batch data.
+2009-12-24 - dtransactions archived and truncated.
+2009-12-24 - ERROR - Sync to lane01 failed.
+2009-12-24 - ERROR - Sync to lane02 failed.
+2009-12-24 - Sync to lane03 successful.
+2009-12-25 - Update products table with new sales batch data.
+2009-12-25 - dtransactions archived and truncated.
+2009-12-25 - ERROR - Sync to lane01 failed.
+2009-12-25 - ERROR - Sync to lane02 failed.
+2009-12-25 - Sync to lane03 successful.
+2009-12-26 - Update products table with new sales batch data.
+2009-12-26 - dtransactions archived and truncated.
+2009-12-26 - ERROR - Sync to lane01 failed.
+2009-12-26 - ERROR - Sync to lane02 failed.
+2009-12-26 - Sync to lane03 successful.
+2009-12-27 - Update products table with new sales batch data.
+2009-12-27 - dtransactions archived and truncated.
+2009-12-27 - ERROR - Sync to lane01 failed.
+2009-12-27 - ERROR - Sync to lane02 failed.
+2009-12-27 - Sync to lane03 successful.
+2009-12-28 - Update products table with new sales batch data.
+2009-12-28 - dtransactions archived and truncated.
+2009-12-28 - ERROR - Sync to lane01 failed.
+2009-12-28 - ERROR - Sync to lane02 failed.
+2009-12-28 - Sync to lane03 successful.
+2009-12-29 - Update products table with new sales batch data.
+2009-12-29 - dtransactions archived and truncated.
+2009-12-29 - ERROR - Sync to lane01 failed.
+2009-12-29 - ERROR - Sync to lane02 failed.
+2009-12-29 - Sync to lane03 successful.
+2009-12-30 - Update products table with new sales batch data.
+2009-12-30 - dtransactions archived and truncated.
+2009-12-30 - ERROR - Sync to lane01 failed.
+2009-12-30 - ERROR - Sync to lane02 failed.
+2009-12-30 - Sync to lane03 successful.
+2009-12-31 - Update products table with new sales batch data.
+2009-12-31 - dtransactions archived and truncated.
+2009-12-31 - ERROR - Sync to lane01 failed.
+2009-12-31 - ERROR - Sync to lane02 failed.
+2009-12-31 - Sync to lane03 successful.
+2010-01-01 - Update products table with new sales batch data.
+2010-01-01 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-01 - ERROR - Sync to lane01 failed.
+2010-01-01 - ERROR - Sync to lane02 failed.
+2010-01-01 - Sync to lane03 successful.
+2010-01-02 - Update products table with new sales batch data.
+2010-01-02 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-02 - ERROR - Sync to lane01 failed.
+2010-01-02 - ERROR - Sync to lane02 failed.
+2010-01-02 - Sync to lane03 successful.
+2010-01-03 - Update products table with new sales batch data.
+2010-01-03 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-03 - ERROR - Sync to lane01 failed.
+2010-01-03 - ERROR - Sync to lane02 failed.
+2010-01-03 - Sync to lane03 successful.
+2010-01-04 - Update products table with new sales batch data.
+2010-01-04 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-04 - ERROR - Sync to lane01 failed.
+2010-01-04 - ERROR - Sync to lane02 failed.
+2010-01-04 - Sync to lane03 successful.
+2010-01-05 - Update products table with new sales batch data.
+2010-01-05 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-05 - ERROR - Sync to lane01 failed.
+2010-01-05 - ERROR - Sync to lane02 failed.
+2010-01-05 - Sync to lane03 successful.
+2010-01-06 - Update products table with new sales batch data.
+2010-01-06 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-06 - ERROR - Sync to lane01 failed.
+2010-01-06 - ERROR - Sync to lane02 failed.
+2010-01-06 - Sync to lane03 successful.
+2010-01-07 - Update products table with new sales batch data.
+2010-01-07 - ERROR - Archival failed. Backed up transaction tables.
+2010-01-07 - ERROR - Sync to lane01 failed.
+2010-01-07 - ERROR - Sync to lane02 failed.
+2010-01-07 - Sync to lane03 successful.
+2010-01-08 - Update products table with new sales batch data.
+2010-01-08 - dtransactions archived and truncated.
+2010-01-08 - ERROR - Sync to lane01 failed.
+2010-01-08 - ERROR - Sync to lane02 failed.
+2010-01-08 - Sync to lane03 successful.
+2010-01-09 - Update products table with new sales batch data.
+2010-01-09 - dtransactions archived and truncated.
+2010-01-09 - ERROR - Sync to lane01 failed.
+2010-01-09 - ERROR - Sync to lane02 failed.
+2010-01-09 - Sync to lane03 successful.
+2010-01-10 - Update products table with new sales batch data.
+2010-01-10 - dtransactions archived and truncated.
+2010-01-10 - ERROR - Sync to lane01 failed.
+2010-01-10 - ERROR - Sync to lane02 failed.
+2010-01-10 - Sync to lane03 successful.
+2010-01-11 - Update products table with new sales batch data.
+2010-01-11 - dtransactions archived and truncated.
+2010-01-11 - ERROR - Sync to lane01 failed.
+2010-01-11 - ERROR - Sync to lane02 failed.
+2010-01-11 - Sync to lane03 successful.
+2010-01-12 - Update products table with new sales batch data.
+2010-01-12 - dtransactions archived and truncated.
+2010-01-12 - ERROR - Sync to lane01 failed.
+2010-01-12 - ERROR - Sync to lane02 failed.
+2010-01-12 - Sync to lane03 successful.
+2010-01-13 - Update products table with new sales batch data.
+2010-01-13 - dtransactions archived and truncated.
+2010-01-13 - ERROR - Sync to lane01 failed.
+2010-01-13 - ERROR - Sync to lane02 failed.
+2010-01-13 - Sync to lane03 successful.
+2010-01-14 - Update products table with new sales batch data.
+2010-01-14 - dtransactions archived and truncated.
+2010-01-14 - ERROR - Sync to lane01 failed.
+2010-01-14 - ERROR - Sync to lane02 failed.
+2010-01-14 - Sync to lane03 successful.
+2010-01-15 - Update products table with new sales batch data.
+2010-01-15 - dtransactions archived and truncated.
+2010-01-15 - ERROR - Sync to lane01 failed.
+2010-01-15 - ERROR - Sync to lane02 failed.
+2010-01-15 - Sync to lane03 successful.
+2010-01-16 - Update products table with new sales batch data.
+2010-01-16 - dtransactions archived and truncated.
+2010-01-16 - ERROR - Sync to lane01 failed.
+2010-01-16 - ERROR - Sync to lane02 failed.
+2010-01-16 - Sync to lane03 successful.
+2010-01-17 - Update products table with new sales batch data.
+2010-01-17 - dtransactions archived and truncated.
+2010-01-17 - ERROR - Sync to lane01 failed.
+2010-01-17 - ERROR - Sync to lane02 failed.
+2010-01-17 - Sync to lane03 successful.
+2010-01-18 - Update products table with new sales batch data.
+2010-01-18 - dtransactions archived and truncated.
+2010-01-18 - ERROR - Sync to lane01 failed.
+2010-01-18 - ERROR - Sync to lane02 failed.
+2010-01-18 - Sync to lane03 successful.
+2010-01-19 - Update products table with new sales batch data.
+2010-01-19 - dtransactions archived and truncated.
+2010-01-19 - ERROR - Sync to lane01 failed.
+2010-01-19 - ERROR - Sync to lane02 failed.
+2010-01-19 - Sync to lane03 successful.
+2010-01-20 - Update products table with new sales batch data.
+2010-01-20 - dtransactions archived and truncated.
+2010-01-20 - ERROR - Sync to lane01 failed.
+2010-01-20 - ERROR - Sync to lane02 failed.
+2010-01-20 - Sync to lane03 successful.
+2010-01-21 - Update products table with new sales batch data.
+2010-01-21 - dtransactions archived and truncated.
+2010-01-21 - ERROR - Sync to lane01 failed.
+2010-01-21 - ERROR - Sync to lane02 failed.
+2010-01-21 - Sync to lane03 successful.
+2010-01-22 - Update products table with new sales batch data.
+2010-01-22 - dtransactions archived and truncated.
+2010-01-22 - ERROR - Sync to lane01 failed.
+2010-01-22 - ERROR - Sync to lane02 failed.
+2010-01-22 - Sync to lane03 successful.
+2010-01-23 - Update products table with new sales batch data.
+2010-01-23 - dtransactions archived and truncated.
+2010-01-23 - ERROR - Sync to lane01 failed.
+2010-01-23 - ERROR - Sync to lane02 failed.
+2010-01-23 - Sync to lane03 successful.
+2010-01-24 - Update products table with new sales batch data.
+2010-01-24 - dtransactions archived and truncated.
+2010-01-24 - ERROR - Sync to lane01 failed.
+2010-01-24 - ERROR - Sync to lane02 failed.
+2010-01-24 - Sync to lane03 successful.
+2010-01-25 - Update products table with new sales batch data.
+2010-01-25 - dtransactions archived and truncated.
+2010-01-25 - ERROR - Sync to lane01 failed.
+2010-01-25 - ERROR - Sync to lane02 failed.
+2010-01-25 - Sync to lane03 successful.
+2010-01-26 - Update products table with new sales batch data.
+2010-01-26 - dtransactions archived and truncated.
+2010-01-26 - ERROR - Sync to lane01 failed.
+2010-01-26 - ERROR - Sync to lane02 failed.
+2010-01-26 - Sync to lane03 successful.
+2010-01-27 - Update products table with new sales batch data.
+2010-01-27 - dtransactions archived and truncated.
+2010-01-27 - ERROR - Sync to lane01 failed.
+2010-01-27 - ERROR - Sync to lane02 failed.
+2010-01-27 - Sync to lane03 successful.
+2010-01-28 - Update products table with new sales batch data.
+2010-01-28 - dtransactions archived and truncated.
+2010-01-28 - ERROR - Sync to lane01 failed.
+2010-01-28 - Sync to lane02 successful.
+2010-01-28 - Sync to lane03 successful.
+2010-01-29 - Update products table with new sales batch data.
+2010-01-29 - dtransactions archived and truncated.
+2010-01-29 - ERROR - Sync to lane01 failed.
+2010-01-29 - Sync to lane02 successful.
+2010-01-29 - Sync to lane03 successful.
+2010-01-30 - Update products table with new sales batch data.
+2010-01-30 - dtransactions archived and truncated.
+2010-01-30 - ERROR - Sync to lane01 failed.
+2010-01-30 - Sync to lane02 successful.
+2010-01-30 - Sync to lane03 successful.
+2010-01-31 - Update products table with new sales batch data.
+2010-01-31 - dtransactions archived and truncated.
+2010-01-31 - ERROR - Sync to lane01 failed.
+2010-01-31 - Sync to lane02 successful.
+2010-01-31 - Sync to lane03 successful.
+2010-02-01 - Update products table with new sales batch data.
+2010-02-01 - dtransactions archived and truncated.
+2010-02-01 - ERROR - Sync to lane01 failed.
+2010-02-01 - Sync to lane02 successful.
+2010-02-01 - Sync to lane03 successful.
+2010-02-02 - Update products table with new sales batch data.
+2010-02-02 - dtransactions archived and truncated.
+2010-02-02 - ERROR - Sync to lane01 failed.
+2010-02-02 - Sync to lane02 successful.
+2010-02-02 - Sync to lane03 successful.
+2010-02-03 - Update products table with new sales batch data.
+2010-02-03 - dtransactions archived and truncated.
+2010-02-03 - ERROR - Sync to lane01 failed.
+2010-02-03 - Sync to lane02 successful.
+2010-02-03 - Sync to lane03 successful.
+2010-02-04 - Update products table with new sales batch data.
+2010-02-04 - dtransactions archived and truncated.
+2010-02-04 - ERROR - Sync to lane01 failed.
+2010-02-04 - Sync to lane02 successful.
+2010-02-04 - Sync to lane03 successful.
+2010-02-05 - Update products table with new sales batch data.
+2010-02-05 - dtransactions archived and truncated.
+2010-02-05 - ERROR - Sync to lane01 failed.
+2010-02-05 - Sync to lane02 successful.
+2010-02-05 - ERROR - Sync to lane03 failed.
+2010-02-06 - Update products table with new sales batch data.
+2010-02-06 - dtransactions archived and truncated.
+2010-02-06 - ERROR - Sync to lane01 failed.
+2010-02-06 - Sync to lane02 successful.
+2010-02-06 - ERROR - Sync to lane03 failed.
+2010-02-07 - Update products table with new sales batch data.
+2010-02-07 - dtransactions archived and truncated.
+2010-02-07 - ERROR - Sync to lane01 failed.
+2010-02-07 - Sync to lane02 successful.
+2010-02-07 - ERROR - Sync to lane03 failed.
+2010-02-08 - Update products table with new sales batch data.
+2010-02-08 - dtransactions archived and truncated.
+2010-02-08 - ERROR - Sync to lane01 failed.
+2010-02-08 - Sync to lane02 successful.
+2010-02-08 - ERROR - Sync to lane03 failed.
+2010-02-09 - Update products table with new sales batch data.
+2010-02-09 - dtransactions archived and truncated.
+2010-02-09 - ERROR - Sync to lane01 failed.
+2010-02-09 - Sync to lane02 successful.
+2010-02-09 - ERROR - Sync to lane03 failed.
+2010-02-10 - Update products table with new sales batch data.
+2010-02-10 - dtransactions archived and truncated.
+2010-02-10 - ERROR - Sync to lane01 failed.
+2010-02-10 - Sync to lane02 successful.
+2010-02-10 - ERROR - Sync to lane03 failed.
+2010-02-11 - Update products table with new sales batch data.
+2010-02-11 - dtransactions archived and truncated.
+2010-02-11 - ERROR - Sync to lane01 failed.
+2010-02-11 - Sync to lane02 successful.
+2010-02-11 - ERROR - Sync to lane03 failed.
+2010-02-12 - Update products table with new sales batch data.
+2010-02-12 - dtransactions archived and truncated.
+2010-02-12 - ERROR - Sync to lane01 failed.
+2010-02-12 - Sync to lane02 successful.
+2010-02-12 - ERROR - Sync to lane03 failed.
+2010-02-13 - Update products table with new sales batch data.
+2010-02-13 - dtransactions archived and truncated.
+2010-02-13 - ERROR - Sync to lane01 failed.
+2010-02-13 - Sync to lane02 successful.
+2010-02-13 - ERROR - Sync to lane03 failed.
+2010-02-14 - Update products table with new sales batch data.
+2010-02-14 - dtransactions archived and truncated.
+2010-02-14 - ERROR - Sync to lane01 failed.
+2010-02-14 - Sync to lane02 successful.
+2010-02-14 - ERROR - Sync to lane03 failed.
+2010-02-15 - Update products table with new sales batch data.
+2010-02-15 - dtransactions archived and truncated.
+2010-02-15 - ERROR - Sync to lane01 failed.
+2010-02-15 - Sync to lane02 successful.
+2010-02-15 - ERROR - Sync to lane03 failed.
+2010-02-16 - Update products table with new sales batch data.
+2010-02-16 - dtransactions archived and truncated.
+2010-02-16 - ERROR - Sync to lane01 failed.
+2010-02-16 - Sync to lane02 successful.
+2010-02-16 - ERROR - Sync to lane03 failed.
+2010-02-17 - Update products table with new sales batch data.
+2010-02-17 - dtransactions archived and truncated.
+2010-02-17 - ERROR - Sync to lane01 failed.
+2010-02-17 - Sync to lane02 successful.
+2010-02-17 - ERROR - Sync to lane03 failed.
+2010-02-18 - Update products table with new sales batch data.
+2010-02-18 - dtransactions archived and truncated.
+2010-02-18 - ERROR - Sync to lane01 failed.
+2010-02-18 - Sync to lane02 successful.
+2010-02-18 - ERROR - Sync to lane03 failed.
+2010-02-19 - Update products table with new sales batch data.
+2010-02-19 - dtransactions archived and truncated.
+2010-02-19 - ERROR - Sync to lane01 failed.
+2010-02-19 - Sync to lane02 successful.
+2010-02-19 - ERROR - Sync to lane03 failed.
+2010-02-20 - Update products table with new sales batch data.
+2010-02-20 - dtransactions archived and truncated.
+2010-02-20 - ERROR - Sync to lane01 failed.
+2010-02-20 - Sync to lane02 successful.
+2010-02-20 - ERROR - Sync to lane03 failed.
+2010-02-21 - Update products table with new sales batch data.
+2010-02-21 - dtransactions archived and truncated.
+2010-02-21 - ERROR - Sync to lane01 failed.
+2010-02-21 - Sync to lane02 successful.
+2010-02-21 - ERROR - Sync to lane03 failed.
+2010-02-22 - Update products table with new sales batch data.
+2010-02-22 - dtransactions archived and truncated.
+2010-02-22 - ERROR - Sync to lane01 failed.
+2010-02-22 - Sync to lane02 successful.
+2010-02-22 - ERROR - Sync to lane03 failed.
+2010-02-23 - Update products table with new sales batch data.
+2010-02-23 - dtransactions archived and truncated.
+2010-02-23 - ERROR - Sync to lane01 failed.
+2010-02-23 - Sync to lane02 successful.
+2010-02-23 - ERROR - Sync to lane03 failed.
+2010-02-24 - Update products table with new sales batch data.
+2010-02-24 - dtransactions archived and truncated.
+2010-02-24 - ERROR - Sync to lane01 failed.
+2010-02-24 - Sync to lane02 successful.
+2010-02-24 - ERROR - Sync to lane03 failed.
+2010-02-25 - Update products table with new sales batch data.
+2010-02-25 - dtransactions archived and truncated.
+2010-02-25 - ERROR - Sync to lane01 failed.
+2010-02-25 - Sync to lane02 successful.
+2010-02-25 - ERROR - Sync to lane03 failed.
+2010-02-26 - Update products table with new sales batch data.
+2010-02-26 - dtransactions archived and truncated.
+2010-02-26 - ERROR - Sync to lane01 failed.
+2010-02-26 - ERROR - Sync to lane02 failed.
+2010-02-26 - ERROR - Sync to lane03 failed.
+2010-02-27 - Update products table with new sales batch data.
+2010-02-27 - dtransactions archived and truncated.
+2010-02-27 - ERROR - Sync to lane01 failed.
+2010-02-27 - Sync to lane02 successful.
+2010-02-27 - Sync to lane03 successful.
+2010-02-28 - Update products table with new sales batch data.
+2010-02-28 - dtransactions archived and truncated.
+2010-02-28 - ERROR - Sync to lane01 failed.
+2010-02-28 - Sync to lane02 successful.
+2010-02-28 - Sync to lane03 successful.
+2010-03-01 - Update products table with new sales batch data.
+2010-03-01 - dtransactions archived and truncated.
+2010-03-01 - ERROR - Sync to lane01 failed.
+2010-03-01 - Sync to lane02 successful.
+2010-03-01 - Sync to lane03 successful.
+2010-03-02 - Update products table with new sales batch data.
+2010-03-02 - dtransactions archived and truncated.
+2010-03-02 - Sync to lane01 successful.
+2010-03-02 - Sync to lane02 successful.
+2010-03-02 - Sync to lane03 successful.
+2010-03-03 - Update products table with new sales batch data.
+2010-03-03 - dtransactions archived and truncated.
+2010-03-03 - Sync to lane01 successful.
+2010-03-03 - Sync to lane02 successful.
+2010-03-03 - Sync to lane03 successful.
+2010-03-04 - Update products table with new sales batch data.
+2010-03-04 - dtransactions archived and truncated.
+2010-03-04 - Sync to lane01 successful.
+2010-03-04 - Sync to lane02 successful.
+2010-03-04 - Sync to lane03 successful.
+2010-03-05 - Update products table with new sales batch data.
+2010-03-05 - dtransactions archived and truncated.
+2010-03-05 - Sync to lane01 successful.
+2010-03-05 - Sync to lane02 successful.
+2010-03-05 - Sync to lane03 successful.
+2010-03-06 - Update products table with new sales batch data.
+2010-03-06 - dtransactions archived and truncated.
+2010-03-06 - Sync to lane01 successful.
+2010-03-06 - Sync to lane02 successful.
+2010-03-06 - Sync to lane03 successful.
+2010-03-07 - Update products table with new sales batch data.
+2010-03-07 - dtransactions archived and truncated.
+2010-03-07 - Sync to lane01 successful.
+2010-03-07 - Sync to lane02 successful.
+2010-03-07 - Sync to lane03 successful.
+2010-03-08 - Update products table with new sales batch data.
+2010-03-08 - dtransactions archived and truncated.
+2010-03-08 - Sync to lane01 successful.
+2010-03-08 - Sync to lane02 successful.
+2010-03-08 - Sync to lane03 successful.
+2010-03-09 - Update products table with new sales batch data.
+2010-03-09 - dtransactions archived and truncated.
+2010-03-09 - Sync to lane01 successful.
+2010-03-09 - Sync to lane02 successful.
+2010-03-09 - Sync to lane03 successful.
+2010-03-10 - Update products table with new sales batch data.
+2010-03-10 - dtransactions archived and truncated.
+2010-03-10 - Sync to lane01 successful.
+2010-03-10 - Sync to lane02 successful.
+2010-03-10 - Sync to lane03 successful.
+2010-03-11 - Update products table with new sales batch data.
+2010-03-11 - dtransactions archived and truncated.
+2010-03-11 - Sync to lane01 successful.
+2010-03-11 - Sync to lane02 successful.
+2010-03-11 - Sync to lane03 successful.
+2010-03-12 - Update products table with new sales batch data.
+2010-03-12 - dtransactions archived and truncated.
+2010-03-12 - Sync to lane01 successful.
+2010-03-12 - Sync to lane02 successful.
+2010-03-12 - Sync to lane03 successful.
+2010-03-13 - Update products table with new sales batch data.
+2010-03-13 - dtransactions archived and truncated.
+2010-03-13 - Sync to lane01 successful.
+2010-03-13 - Sync to lane02 successful.
+2010-03-13 - Sync to lane03 successful.
+2010-03-14 - Update products table with new sales batch data.
+2010-03-14 - dtransactions archived and truncated.
+2010-03-14 - Sync to lane01 successful.
+2010-03-14 - Sync to lane02 successful.
+2010-03-14 - Sync to lane03 successful.
+2010-03-15 - Update products table with new sales batch data.
+2010-03-15 - dtransactions archived and truncated.
+2010-03-15 - Sync to lane01 successful.
+2010-03-15 - Sync to lane02 successful.
+2010-03-15 - Sync to lane03 successful.
+2010-03-16 - Update products table with new sales batch data.
+2010-03-16 - dtransactions archived and truncated.
+2010-03-16 - Sync to lane01 successful.
+2010-03-16 - Sync to lane02 successful.
+2010-03-16 - Sync to lane03 successful.
+2010-03-17 - Update products table with new sales batch data.
+2010-03-17 - dtransactions archived and truncated.
+2010-03-17 - Sync to lane01 successful.
+2010-03-17 - Sync to lane02 successful.
+2010-03-17 - Sync to lane03 successful.
+2010-03-18 - Update products table with new sales batch data.
+2010-03-18 - dtransactions archived and truncated.
+2010-03-18 - Sync to lane01 successful.
+2010-03-18 - Sync to lane02 successful.
+2010-03-18 - Sync to lane03 successful.
